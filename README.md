@@ -26,15 +26,3 @@ Use Gemini API to generate embeddings for each book.
 Store the embeddings in a FAISS vector database for fast search.
 Use Hugging Face models to classify genres and sentiments.
 Build an interactive Gradio app where users can select a book and get similar ones recommended.
-
-Setup Instructions
-
-Clone the repository
-git clone https://github.com/shaliniiii1/book-recommender.git
-cd book-recommender
-Install the dependencies
-pip install -r requirements.txt
-Set your API keys in a .env file
-OPENAI_API_KEY=your_openai_key
-Run the notebooks or launch the Gradio interface
-python app.py
