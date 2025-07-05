@@ -13,7 +13,7 @@ Technologies Used
 
 1. Python
 2. LangChain
-3. OpenAI API
+3. Gemini API
 4. Hugging Face Transformers
 5. Gradio
 6. FAISS
