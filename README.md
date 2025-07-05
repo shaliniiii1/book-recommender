@@ -1,4 +1,4 @@
-This is a book recommendation system built using large language models (LLMs), vector search, and an interactive Gradio interface. It uses semantic similarity between book descriptions to help users discover books similar to the ones they like.
+My project is a book recommendation system built using large language models (LLMs), vector search, and an interactive Gradio interface. It uses semantic similarity between book descriptions to help users discover books similar to the ones they like.
 
 Features
 
