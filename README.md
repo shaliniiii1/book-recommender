@@ -22,7 +22,7 @@ Technologies Used
 How It Works
 
 Clean the book descriptions and remove irrelevant or short data.
-Use OpenAI to generate embeddings for each book.
+Use Gemini API to generate embeddings for each book.
 Store the embeddings in a FAISS vector database for fast search.
 Use Hugging Face models to classify genres and sentiments.
 Build an interactive Gradio app where users can select a book and get similar ones recommended.
