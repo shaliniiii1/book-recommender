@@ -2,7 +2,7 @@ My project is a book recommendation system built using large language models (LL
 
 Features
 
-1. Semantic search using OpenAI embeddings and FAISS
+1. Semantic search using Gemini embeddings and FAISS
 2. Text data exploration and cleaning using Python
 3. Genre classification using zero-shot learning
 4. Sentiment analysis with fine-tuned LLMs
