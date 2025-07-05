@@ -19,15 +19,6 @@ Technologies Used
 6. FAISS
 7. Pandas and NumPy
 
-Project Structure
-
-books_cleaned.csv - Dataset containing cleaned book descriptions
-data-exploration.ipynb - Data cleaning and initial exploration
-sentiment-analysis.ipynb - Extracts emotions from book descriptions using LLMs
-text-classification.ipynb - Classifies books into genres using zero-shot models
-vector-search.ipynb - Embeds descriptions and performs similarity search
-tagged_description.txt - Descriptions tagged with genre or sentiment
-
 How It Works
 
 Clean the book descriptions and remove irrelevant or short data.
